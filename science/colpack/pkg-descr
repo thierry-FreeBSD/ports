@@ -1,0 +1,6 @@
+ColPack is a package comprising of implementation of algorithms for
+specialized vertex coloring problems that arise in sparse derivative
+computation.
+
+WWW: https://cscapes.cs.purdue.edu/coloringpage/software.htm
+WWW: https://github.com/CSCsw/ColPack
