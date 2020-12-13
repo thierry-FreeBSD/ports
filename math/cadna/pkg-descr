@@ -10,4 +10,4 @@ debugging by detecting numerical instabilities which usually involve numerical
 noise. The last (but not the least) tool provided by CADNA is that data errors
 can be taken into account for the estimation of the final accuracy.
 
-WWW: https://www.sagemath.org/
+WWW: https://www-pequan.lip6.fr/cadna
